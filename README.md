@@ -1,4 +1,4 @@
-# Sudbury Slice
+# Sudbury Slice - The taste of Sudbury
 Owner: Rishabh Bhutani
 Course: CMP3321 Web Development I, Applied Activity 3
 

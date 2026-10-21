@@ -1,4 +1,4 @@
--- Sudbury Slice queries for SliceDB on MySQL
+-- Sudbury Slice queries for SliceDB on MySQL, written by Rishabh Bhutani
 USE SliceDB;
 
 -- Q1

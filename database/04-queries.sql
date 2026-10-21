@@ -1,4 +1,4 @@
--- Sudbury Slice queries, SliceDB
+-- Sudbury Slice queries for SliceDB on MySQL
 USE SliceDB;
 
 -- Q1

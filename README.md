@@ -14,3 +14,4 @@ Phone: 123-456-7890
 Database scripts: see database/04-queries.sql
 
 Top-rated pizza (from query Q5): The Big Nickel
+Follow us: @SudburySlice

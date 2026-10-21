@@ -1,4 +1,4 @@
--- Sudbury Slice queries, SliceDB
+-- Sudbury Slice queries, written by Rishabh Bhutani
 USE SliceDB;
 
 -- Q1

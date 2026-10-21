@@ -59,3 +59,4 @@ erDiagram
 - NULL means no value was provided, a customer can give stars without writing a comment
 
 - Current topping field doesn't show that the meat is halal
+Note: tblPizzaTopping exists because one pizza can have many toppings, and one topping can appear on many pizzas
